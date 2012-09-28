@@ -18,7 +18,7 @@ public class DisplayMessageActivity extends Activity {
 
 	    // Create the text view
 	    TextView textView = new TextView(this);
-	    textView.setTextSize(40);
+	    textView.setTextSize(80);
 	    textView.setText(message);
 
 	    // Set the text view as the activity layout
